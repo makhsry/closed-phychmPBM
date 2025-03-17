@@ -1,2 +1,1 @@
-# phychmPBM
- Chemophyically-Informed Population Balance Models of Cocrystalization  
+Chemophysically-Informed Population Balance Models of Cocrystalization 
